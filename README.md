@@ -60,33 +60,14 @@
 ### 📊 Моя статистика на GitHub
 
 <div align="center">
-  <a href="http://www.github.com/guzaliya29">
-    <img src="https://github-readme-stats.vercel.app/api?username=guzaliya29&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"
-      alt="GitHub Stats Guzaliya29"/>
-  </a>
+  <img src="https://streak-stats.demolab.com?user=guzaliya29&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
 
 <div align="center">
-  <a href="http://www.github.com/guzaliya29">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?username=guzaliya29&theme=dark&hide_border=true" alt="GitHub Streak Stats"/>
-  </a>
-</div>
-
-
-
-<div align="center">
-  <a href="http://www.github.com/guzaliya29">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=guzaliya29&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true"
-      alt="Activity Graph Guzaliya"/>
-  </a>
-</div>
-
-
-<div align=center>
-   <a href=http://www.github.com/guzaliya29>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guzaliya29&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true"
-        alt="Top Languages Guzaliya"/>
-   </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=guzaliya29&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guzaliya29&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ---
