@@ -68,7 +68,7 @@
 
 <div align="center">
   <a href="http://www.github.com/guzaliya29">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=guzaliya29&theme=dark&hide_border=true" alt="GitHub Streak Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?username=guzaliya29&theme=dark&hide_border=true" alt="GitHub Streak Stats"/>
   </a>
 </div>
 
