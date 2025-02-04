@@ -47,6 +47,16 @@
 
 ---
 
+---
+
+### 🏆 Мой уровень на Codewars
+
+[![Codewars Badge](https://www.codewars.com/users/guzaliya29/badges/small)](https://www.codewars.com/users/guzaliya29)
+
+---
+
+
+
 ### 📊 Моя статистика на GitHub
 
 <div align="center">
