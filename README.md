@@ -60,7 +60,7 @@
 ### 📊 Моя статистика на GitHub
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=guzaliya29&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guzaliya29&theme=github-dark&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
 ###
