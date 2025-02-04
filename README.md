@@ -74,10 +74,10 @@
 </div>
 
 <div align="center">
-   <a href="http://www.github.com/guzaliya29">
-      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=guzaliya29&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true"
-        alt="Activity Graph Guzaliya"/>
-   </a>
+  <a href="http://www.github.com/guzaliya29">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=guzaliya29&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true"
+      alt="Activity Graph Guzaliya"/>
+  </a>
 </div>
 
 
