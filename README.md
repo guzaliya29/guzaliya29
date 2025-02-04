@@ -22,7 +22,10 @@
 - ✉️ **Контакт:** [GareevaGI@yandex.ru](mailto:GareevaGI@yandex.ru)
 
 ---
-
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+---
 ### 🛠 Навыки
 
 <div align="left">
